@@ -1,0 +1,7 @@
+.env
+.anthropic.env
+__pycache__/
+*.pyc
+output/
+preview-300.png
+.claude-flow/
